@@ -1,0 +1,14 @@
+# Build artifacts
+**/bin/
+**/obj/
+*.pdb
+
+# Visual Studio / VS Code temp files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+Thumbs.db
+[Dd]esktop.ini
