@@ -1,5 +1,4 @@
-# Battle Realms Zen Edition Trainer (+8)  
-[ONLY DOWNLOAD THE ZENTRAINER.EXE] 
+# Battle Realms Zen Edition Trainer (+8) <br>[ONLY DOWNLOAD THE ZENTRAINER.EXE]<br> 
 
 A modernized, standalone memory trainer for **Battle Realms: Zen Edition (v1.59.1)**.
 
